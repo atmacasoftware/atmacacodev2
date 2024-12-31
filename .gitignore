@@ -1,0 +1,7 @@
+*.env
+**/migrations/
+staticfiles
+.venv
+hpwsurvey/.env
+*.socket
+media
